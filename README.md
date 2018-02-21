@@ -18,3 +18,5 @@
 
   - @docker - https://twitter.com/docker
   - @docker-captains - https://twitter.com/Docker/lists/docker-captains 
+
+8. Docker with Node.js | Good Defaults - https://github.com/BretFisher/node-docker-good-defaults
