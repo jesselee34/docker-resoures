@@ -1,5 +1,7 @@
 # Helpful resources for learning about and using Docker
 
+## External and community resources
+
 1. Docker Weekly - https://www.docker.com/newsletter-subscription
 
 2. Docker Community Slack - https://community.docker.com/registrations/groups/4316
@@ -20,3 +22,7 @@
   - @docker-captains - https://twitter.com/Docker/lists/docker-captains 
 
 8. Docker with Node.js | Good Defaults - https://github.com/BretFisher/node-docker-good-defaults
+
+## Using Docker
+
+1. Dockerfile best practices - https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
